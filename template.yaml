@@ -3,14 +3,14 @@ kind: Template
 metadata:
   name: k3t-nodejs-socketio-rest
   title: NodeJs Socket.io Rest API
-  description: 
+  description: Cria um microserviço com exposição Rest usando nodeJs e Socket.io
   tags:
     - nodejs
     - rest
     - api
     - backend
 spec:
-  owner: 
+  owner: tech@kode3.tech
   type: service
   parameters:
     - title: Provide some simple information
